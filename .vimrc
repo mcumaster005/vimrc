@@ -13,7 +13,6 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'tpope/vim-commentary'
 Plug 'mhinz/vim-startify'
 Plug 'kien/ctrlp.vim' 
-Plug'plasticboy/vim-markdown' 
 "Plug 'scrooloose/nerdtree'
 "Plug 'jistr/vim-nerdtree-tabs'
 "++++++++++++++++++++++++++++++"
