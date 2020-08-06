@@ -1,0 +1,18 @@
+[user]
+	email = mcumaser001@163.com
+	name = blc
+[color]
+	ui = true
+[alias]
+	ch = checkou
+	st = status
+	cf = config
+	ck = checkout
+	ft = fetch
+	fh = fetch
+	br = branch
+	geturl = config --get remote.origin.url
+	lg = log
+	cm = commit -m
+	lgo = log --oneline
+	rt = reset --hard
