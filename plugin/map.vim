@@ -1,4 +1,5 @@
 inoremap jj <esc>
+set noswapfile
 let mapleader=" "
 nnoremap te :tabe
 nnoremap tn :tabn<cr>
